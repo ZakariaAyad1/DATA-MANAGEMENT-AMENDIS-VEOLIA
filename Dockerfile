@@ -1,7 +1,7 @@
 # Utiliser une image de base avec Python
 FROM python:3.9-slim
 
-# Définir le répertoire de travail
+# Définir le répertoire de travail..
 WORKDIR /app
 
 # Copier les fichiers nécessaires
